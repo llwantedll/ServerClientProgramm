@@ -1,0 +1,45 @@
+#A1 {
+	-fx-background-color:#FFFF66;
+}
+#Text {
+	-fx-font-family: arial;
+	-fx-text-fill: #777700;
+}
+
+#Fields {
+
+	-fx-control-inner-background: #FFFFCC;
+	-fx-border-color: #DDDD00;
+	-fx-border-width: 2px;
+}
+
+TextArea {
+	-fx-border-radius: 7px;
+	-fx-font-family: arial;
+	-fx-font-size:14px;
+	-fx-text-fill: #777700;
+	-webkit-appearance: none;
+	-fx-box-shadow: none !important;
+}
+
+
+Button {
+	 -fx-background-color: #EEEE00;
+	 -fx-border-width: 2px;
+	 -fx-border-color: #DDDD00;
+	 -fx-font-family: arial;
+	 -fx-text-fill: #777700;
+ }
+
+Button:hover{
+	-fx-background-color: #CCCC00;
+	-fx-border-color: #BBBB00;
+	-fx-text-fill: #DDDDDD;
+}
+
+#Options{
+	-fx-background-color:#EEEE66;
+	-fx-border-width: 2px;
+	-fx-border-color: #DDDD00;
+	-fx-border-style: solid outside;
+}
